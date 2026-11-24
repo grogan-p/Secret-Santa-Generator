@@ -1,0 +1,10 @@
+1. Pairs, people, and message data types - Done
+2. Basic algorithm of choosing pairs - Done (add tests)
+3. Message creation behavior - Done
+4. Sending out message to a dry-run - Done
+5. SMTP email setup - Done
+6. Generalize (input participants, host email, host server) - Done
+7. Save/load participants = Done
+8. Custom user and host - Done
+9. Simple user interface - Done
+10. Other kinds of ways to send
