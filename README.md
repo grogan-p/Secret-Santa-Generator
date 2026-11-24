@@ -1,4 +1,4 @@
-# Secret Santa Creator
+# Secret Santa Generator
 
 Randomly pairs up a group and emails each person who they're buying for. Nobody, including whoever runs it, sees the pairings.
 
